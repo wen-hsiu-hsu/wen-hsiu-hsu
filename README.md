@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript 展開運算子的淺拷貝陷阱：物件參考問題解析](https://hsiu.soy/posts/2025-12-09-web-dev-quiz-06)
 - [前端資源預加載：dns-prefetch、preconnect、prefetch、preload](https://hsiu.soy/posts/2025-12-08-web-dev-quiz-05)
 - [DNS 解析流程 | Resolving Domain Requests](https://hsiu.soy/posts/2025-12-04-web-dev-quiz-03)
 - [瀏覽器的呼叫堆疊與事件循環 | Call Stack &amp; Event Loop](https://hsiu.soy/posts/2025-12-04-web-dev-quiz-04)
 - [渲染流程與合成 | Rendering Pipeline &amp; Compositing](https://hsiu.soy/posts/2025-12-02-web-dev-quiz-02)
-- [async vs. defer](https://hsiu.soy/posts/2025-12-01-web-dev-quiz-01)
 <!-- Blog:END -->
 
 <br />
