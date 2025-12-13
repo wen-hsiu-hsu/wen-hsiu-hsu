@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript 垃圾回收機制：理解 Mark and Sweep 演算法與記憶體管理](https://hsiu.soy/posts/2025-12-12-web-dev-quiz-09)
 - [HTTP Cache：快取指令與應用](https://hsiu.soy/posts/2025-12-11-web-dev-quiz-08)
 - [從輸入網址到頁面載入：PerformanceNavigationTiming](https://hsiu.soy/posts/2025-12-10-web-dev-quiz-07)
 - [JavaScript 展開運算子的淺拷貝陷阱：物件參考問題解析](https://hsiu.soy/posts/2025-12-09-web-dev-quiz-06)
 - [前端資源預加載：dns-prefetch、preconnect、prefetch、preload](https://hsiu.soy/posts/2025-12-08-web-dev-quiz-05)
-- [DNS 解析流程 | Resolving Domain Requests](https://hsiu.soy/posts/2025-12-04-web-dev-quiz-03)
 <!-- Blog:END -->
 
 <br />
