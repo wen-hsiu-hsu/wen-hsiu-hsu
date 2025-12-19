@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [理解 Web Vitals | 提升網站效能與使用者體驗的關鍵指標](https://hsiu.soy/posts/2025-12-18-web-dev-quiz-14)
 - [JavaScript WeakMap 與 Map 的差異及實際應用](https://hsiu.soy/posts/2025-12-17-web-dev-quiz-13)
 - [CSS 選擇器權重 | Specificity](https://hsiu.soy/posts/2025-12-16-web-dev-quiz-12)
 - [JavaScript 事件傳遞機制：Capturing 與 Bubbling 的執行順序](https://hsiu.soy/posts/2025-12-15-web-dev-quiz-11)
 - [CSS 動畫的渲染成本（Layout、Paint、Composite）](https://hsiu.soy/posts/2025-12-14-web-dev-quiz-10)
-- [JavaScript 垃圾回收機制：理解 Mark and Sweep 演算法與記憶體管理](https://hsiu.soy/posts/2025-12-12-web-dev-quiz-09)
 <!-- Blog:END -->
 
 <br />
