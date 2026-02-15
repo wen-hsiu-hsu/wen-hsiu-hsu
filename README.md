@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [HTML rel 屬性：noopener 與 noreferrer 的差異及安全性應用](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-18)
 - [理解 JavaScript Promise 方法：all、race、any、allSettled](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-17)
 - [理解 JavaScript Generator 函式與 yield 運作原理](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-16)
 - [HTML rel 屬性：noopener 與 noreferrer 的差異及安全性應用](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-15)
 - [理解 Web Vitals | 提升網站效能與使用者體驗的關鍵指標](https://hsiu.soy/posts/2025-12-18-web-dev-quiz-14)
-- [JavaScript WeakMap 與 Map 的差異及實際應用](https://hsiu.soy/posts/2025-12-17-web-dev-quiz-13)
 <!-- Blog:END -->
 
 <br />
