@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
-- [從 HSTS 看網站安全：理解 Strict-Transport-Security Header](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-24)
-- [CSS 選擇器：如何只選中第一個 &lt;li&gt; 元素](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-23)
-- [理解 Set-Cookie 與 Cookie 的運作機制](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-22)
-- [CSS font-display 五種策略（auto/block/swap/fallback/optional）](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-21)
-- [XSS／CSRF／Clickjacking／MITM 名詞整理](https://hsiu.soy/posts/2026-01-07-web-dev-quiz-20)
+- [圖片格式完整比較：JPEG、PNG、WebP、AVIF 的壓縮、透明與色域差異](https://hsiu.soy/posts/2026-04-16-web-dev-quiz-26)
+- [CSS Render Layer](https://hsiu.soy/posts/2026-02-26-web-dev-quiz-25)
+- [從 HSTS 看網站安全：理解 Strict-Transport-Security Header](https://hsiu.soy/posts/2026-02-26-web-dev-quiz-24)
+- [CSS 選擇器：如何只選中第一個 &lt;li&gt; 元素](https://hsiu.soy/posts/2026-02-25-web-dev-quiz-23)
+- [理解 Set-Cookie 與 Cookie 的運作機制](https://hsiu.soy/posts/2026-02-20-web-dev-quiz-22)
 <!-- Blog:END -->
 
 <br />
