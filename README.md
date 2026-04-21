@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [Call Stack 是什麼？理解 JavaScript 的呼叫堆疊機制](https://hsiu.soy/dev/javaScript_the_hard_part_v3/02-call-stack)
+- [JavaScript 執行原理：執行緒、記憶體與執行環境（Execution Context）](https://hsiu.soy/dev/javaScript_the_hard_part_v3/01-execution-context)
 - [CORS Config 解析：Preflight、Credentials 與 Response Headers](https://hsiu.soy/dev/web-dev-quiz/27-cors-preflight-credentials-response-headers)
 - [圖片格式完整比較：JPEG、PNG、WebP、AVIF 的壓縮、透明與色域差異](https://hsiu.soy/dev/web-dev-quiz/26-image-formats-jpeg-png-webp-avif-comparison)
 - [CSS Render Layer](https://hsiu.soy/dev/web-dev-quiz/25-css-render-layer-performance-optimization)
-- [從 HSTS 看網站安全：理解 Strict-Transport-Security Header](https://hsiu.soy/dev/web-dev-quiz/24-hsts-strict-transport-security-header)
-- [CSS 選擇器：如何只選中第一個 &lt;li&gt; 元素](https://hsiu.soy/dev/web-dev-quiz/23-css-selectors-first-child-first-of-type)
 <!-- Blog:END -->
 
 <br />
