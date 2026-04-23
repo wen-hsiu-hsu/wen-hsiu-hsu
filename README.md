@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript 執行上下文與高階函式：從重複程式碼到通用化設計](https://hsiu.soy/dev/javaScript_the_hard_part_v3/04-copy-and-change-an-array)
 - [JavaScript 的 Higher-Order Functions：從 DRY 到函式作為參數](https://hsiu.soy/dev/javaScript_the_hard_part_v3/03-callbacks-and-higher-order-functions)
 - [Call Stack 是什麼？理解 JavaScript 的呼叫堆疊機制](https://hsiu.soy/dev/javaScript_the_hard_part_v3/02-call-stack)
 - [JavaScript 執行原理：執行緒、記憶體與執行環境（Execution Context）](https://hsiu.soy/dev/javaScript_the_hard_part_v3/01-execution-context)
 - [CORS Config 解析：Preflight、Credentials 與 Response Headers](https://hsiu.soy/dev/web-dev-quiz/27-cors-preflight-credentials-response-headers)
-- [圖片格式完整比較：JPEG、PNG、WebP、AVIF 的壓縮、透明與色域差異](https://hsiu.soy/dev/web-dev-quiz/26-image-formats-jpeg-png-webp-avif-comparison)
 <!-- Blog:END -->
 
 <br />
