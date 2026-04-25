@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript 一級函式與高階函式（Higher-Order Function）入門](https://hsiu.soy/dev/javaScript_the_hard_part_v3/06-declarative-and-readable-code)
 - [以 copyArrayAndManipulate 拆解高階函式 &lpar;Higher-Order Function&rpar; 的執行原理](https://hsiu.soy/dev/javaScript_the_hard_part_v3/05-pass-a-function-as-an-argument)
 - [JavaScript 執行上下文與高階函式：從重複程式碼到通用化設計](https://hsiu.soy/dev/javaScript_the_hard_part_v3/04-copy-and-change-an-array)
 - [JavaScript 的 Higher-Order Functions：從 DRY 到函式作為參數](https://hsiu.soy/dev/javaScript_the_hard_part_v3/03-callbacks-and-higher-order-functions)
 - [Call Stack 是什麼？理解 JavaScript 的呼叫堆疊機制](https://hsiu.soy/dev/javaScript_the_hard_part_v3/02-call-stack)
-- [JavaScript 執行原理：執行緒、記憶體與執行環境（Execution Context）](https://hsiu.soy/dev/javaScript_the_hard_part_v3/01-execution-context)
 <!-- Blog:END -->
 
 <br />
