@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript 陣列變異方法與 ES2023 非變異替代方案（Pure Function、Side Effect）](https://hsiu.soy/dev/javaScript_the_hard_part_v3/08-non-mutating-array-methods)
 - [箭頭函式（Arrow Function）、匿名函式與 map 方法](https://hsiu.soy/dev/javaScript_the_hard_part_v3/07-arrow-functions)
 - [JavaScript 一級函式與高階函式（Higher-Order Function）入門](https://hsiu.soy/dev/javaScript_the_hard_part_v3/06-declarative-and-readable-code)
 - [以 copyArrayAndManipulate 拆解高階函式 &lpar;Higher-Order Function&rpar; 的執行原理](https://hsiu.soy/dev/javaScript_the_hard_part_v3/05-pass-a-function-as-an-argument)
 - [JavaScript 執行上下文與高階函式：從重複程式碼到通用化設計](https://hsiu.soy/dev/javaScript_the_hard_part_v3/04-copy-and-change-an-array)
-- [JavaScript 的 Higher-Order Functions：從 DRY 到函式作為參數](https://hsiu.soy/dev/javaScript_the_hard_part_v3/03-callbacks-and-higher-order-functions)
 <!-- Blog:END -->
 
 <br />
