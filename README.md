@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript Closure 的核心問題：變數存取由定義位置還是呼叫位置決定？](https://hsiu.soy/dev/javaScript_the_hard_part_v3/11-calling-function-within-function)
 - [JavaScript 函式回傳函式：執行環境 &lpar;Execution Context&rpar; 與 Call Stack 運作解析](https://hsiu.soy/dev/javaScript_the_hard_part_v3/10-return-a-function)
 - [JavaScript Closure（閉包）：原理與核心應用](https://hsiu.soy/dev/javaScript_the_hard_part_v3/09-closure)
 - [JavaScript 陣列變異方法與 ES2023 非變異替代方案（Pure Function、Side Effect）](https://hsiu.soy/dev/javaScript_the_hard_part_v3/08-non-mutating-array-methods)
 - [箭頭函式（Arrow Function）、匿名函式與 map 方法](https://hsiu.soy/dev/javaScript_the_hard_part_v3/07-arrow-functions)
-- [JavaScript 一級函式與高階函式（Higher-Order Function）入門](https://hsiu.soy/dev/javaScript_the_hard_part_v3/06-declarative-and-readable-code)
 <!-- Blog:END -->
 
 <br />
