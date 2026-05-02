@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript Closure 背包機制：私有狀態如何被保留](https://hsiu.soy/dev/javaScript_the_hard_part_v3/13-function-scope)
 - [JavaScript Closure 與背包（Backpack）的運作機制](https://hsiu.soy/dev/javaScript_the_hard_part_v3/12-function-scope-backpack)
 - [JavaScript Closure 的核心問題：變數存取由定義位置還是呼叫位置決定？](https://hsiu.soy/dev/javaScript_the_hard_part_v3/11-calling-function-within-function)
 - [JavaScript 函式回傳函式：執行環境 &lpar;Execution Context&rpar; 與 Call Stack 運作解析](https://hsiu.soy/dev/javaScript_the_hard_part_v3/10-return-a-function)
 - [JavaScript Closure（閉包）：原理與核心應用](https://hsiu.soy/dev/javaScript_the_hard_part_v3/09-closure)
-- [JavaScript 陣列變異方法與 ES2023 非變異替代方案（Pure Function、Side Effect）](https://hsiu.soy/dev/javaScript_the_hard_part_v3/08-non-mutating-array-methods)
 <!-- Blog:END -->
 
 <br />
