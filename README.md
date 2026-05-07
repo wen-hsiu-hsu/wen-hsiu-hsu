@@ -110,11 +110,11 @@
 
 ### :zap: Blog 文章 / Blog Posts
 <!-- Blog:START -->
+- [JavaScript 型別強制轉換：運算子、ToNumber 與 DOM 字串](https://hsiu.soy/dev/javaScript_the_hard_part_v3/18-math-operators-and-user-submitted-data)
 - [Closure 的實際應用：once、memoize、Iterator 與 Module Pattern](https://hsiu.soy/dev/javaScript_the_hard_part_v3/17-closure-use-cases)
 - [Closure：為什麼每次呼叫外層函式都是全新開始](https://hsiu.soy/dev/javaScript_the_hard_part_v3/16-multiple-closures-qa)
 - [Closure 獨立性與變數查找順序：同一函式的多個閉包互不干擾](https://hsiu.soy/dev/javaScript_the_hard_part_v3/15-multiple-closures)
 - [JavaScript Closure 的真實樣貌：Scope、COVE 與詞彙作用域](https://hsiu.soy/dev/javaScript_the_hard_part_v3/14-closure-scope)
-- [JavaScript Closure 背包機制：私有狀態如何被保留](https://hsiu.soy/dev/javaScript_the_hard_part_v3/13-function-scope)
 <!-- Blog:END -->
 
 <br />
