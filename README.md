@@ -16,19 +16,11 @@
   <span>
     你好！我是許文修，一名致力研究前端技術的前端工程師，
     <br/>
-    目前主攻 Vue、Tailwind CSS。
+    Vue、Tailwind CSS。
   </span>
 </p>
 
 <p align="center">
-  <a href="https://resume.hsiu.soy/">
-    My Website - 個人網站
-  </a>
-  <span> / </span>
-  <a href="https://photography.hsiu.soy/">
-    Photography gallery - 攝影作品網站
-  </a>
-  <span> / </span>
   <a href="https://www.linkedin.com/in/kevin-hws">
     Linkedin
   </a>
@@ -45,6 +37,7 @@
 
 - :link: [個人網站 / Portfolio site][website]
 - :link: [攝影作品網站 / Photography gallery site][photo-gallery-website]
+- :link: [LineBot Dobby (私人羽球社團報名系統) / LineBot Dobby (private badminton club registeration system)][dobby-repo]
 - :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，持續學習後端相關知識
 - :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
@@ -85,6 +78,7 @@
 
 [website]: https://resume.hsiu.soy/
 [photo-gallery-website]: https://photography.hsiu.soy/
+[dobby-repo]: https://github.com/wen-hsiu-hsu/dobby/
 [linkedin]: https://www.linkedin.com/in/kevin-hws
 [mail]: mailto:kevin.hsu.hws@gmail.com
 [maskMap]: https://wen-hsiu-hsu.github.io/maskmap/
