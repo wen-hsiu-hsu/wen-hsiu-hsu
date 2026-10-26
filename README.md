@@ -50,9 +50,9 @@
 
 ### :zap: Side Projects！
 
+- [LINE Bot - Dobby 私人羽球社團報名系統 / Badminton Club Registration Bot][dobby-repo] - `LINEBot`/`Express`/`NotionAPI`
 - [The Most annoying cookie banner (Hackthon)](https://github.com/wen-hsiu-hsu/annoying-cookie-banner) - `react`/`TailwindCSS`/`JavaScript Canvas`
 - [SideBarToggleButtonOnTeachable](https://github.com/wen-hsiu-hsu/SideBarToggleButtonOnTeachable) - `Tampermonkey`/`Javascript`
-- [LINE Bot - Dobby 私人羽球社團報名系統 / Badminton Club Registration Bot][dobby-repo] - `LINEBot`/`Express`/`NotionAPI`
 
 ### :zap: 我的網站們 / Websites
   
