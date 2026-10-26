@@ -37,7 +37,7 @@
 
 - :link: [個人網站 / Portfolio site][website]
 - :link: [攝影作品網站 / Photography gallery site][photo-gallery-website]
-- :link: [LineBot Dobby (私人羽球社團報名系統) / LineBot Dobby (private badminton club registeration system)][dobby-repo]
+- :link: [LINE Bot - Dobby 私人羽球社團報名系統 / Badminton Club Registration Bot][dobby-repo]
 - :crossed_swords: 目前主要在 `Vue.js` 生態系裡面打滾，也有在接觸 `React.js`，CSS 主要使用 `TailwindCSS`，持續學習後端相關知識
 - :hammer_and_wrench: 學過產品設計，曾加入平面戰場，使用過 Adobe 系列: PS/AI/Pr/AE，也用過 UI/UX 相關軟體: Adobe XD / Figma
 
@@ -52,8 +52,6 @@
 ### :zap: Side Projects！
 
 - [The Most annoying cookie banner (Hackthon)](https://github.com/wen-hsiu-hsu/annoying-cookie-banner) - `react`/`TailwindCSS`/`JavaScript Canvas`
-- [iPhone Clock App (開發中...)](https://github.com/wen-hsiu-hsu/pretending-app) - `Vue3`/`Jest`/`TailwindCSS`/`Vite`
-- [JS 地下城](https://github.com/wen-hsiu-hsu/hex_jsDungeon) - `Vanilla Javascript`/`TailwindCSS`/`Gulp`
 - [SideBarToggleButtonOnTeachable](https://github.com/wen-hsiu-hsu/SideBarToggleButtonOnTeachable) - `Tampermonkey`/`Javascript`
 
 ### :zap: 我的網站們 / Websites
