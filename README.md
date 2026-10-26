@@ -8,15 +8,15 @@
 
 <p align="center">
   <sub>
-    Hi, this is Kevin from Taiwan.
+    Hi, this is Wen-Hsiu (Or just call me Kevin) from Taiwan.
     <br/>
     A Front-end engineer mainly develop with Vue and Tailwind CSS. 
   </sub>
   <br/><br/>
   <span>
-    你好！我是許文修，一名致力研究前端技術的前端工程師，
+    你好！我是許文修，一名致力研究前端技術的前端工程師
     <br/>
-    Vue、Tailwind CSS。
+    Vue、Tailwind CSS、n8n、LINE Bot
   </span>
 </p>
 
